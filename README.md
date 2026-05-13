@@ -1,2 +1,12 @@
 # calendar-printer
-打印日历 2024.11.6
+## 日历打印
+C语言控制台实现，输入指定**年-月**，自动输出当月日历，标注星期
+
+输入格式：YYYY-MM
+编译运行
+
+'''
+bash
+gcc calendar.c -o calendar
+./calendar
+'''
